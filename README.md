@@ -1,4 +1,4 @@
-# Projeto Landing Page7
+# Projeto Landing Page
 
 Minha primeira leading page. 
 
